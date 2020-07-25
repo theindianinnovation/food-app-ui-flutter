@@ -21,7 +21,7 @@ import 'tab_controller.dart';
 import 'tab_indicator.dart';
 import 'theme.dart';
 
-const double _kTabHeight = 46.0;
+const double _kTabHeight = 65.0;
 const double _kTextAndIconTabHeight = 72.0;
 
 /// Defines how the bounds of the selected tab indicator are computed.
